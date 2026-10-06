@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Daily AI Drop</title>
+    <link>https://github.com/navdatascience/daily-ai-drop</link>
+    <description>Twice daily, Alex and Jordan watch the best AI channels on YouTube so you don't have to. New videos summarized, explained, and put in context — every morning and evening.</description>
+    <language>en-us</language>
+    <itunes:author>The Daily AI Drop</itunes:author>
+    <itunes:summary>Twice daily, Alex and Jordan watch the best AI channels on YouTube so you don't have to. New videos summarized, explained, and put in context — every morning and evening.</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Daily AI Drop - Morning Edition, October 6, 2026</title>
+      <description>Alex and Jordan break down 11 fresh AI videos from 8 YouTube channels: Reflection Beam vs Cohere North 2, DeepSeek's hackable Harness, Meta's Muse agent negotiating with Siraj Raval's agent, LangChain Skills, 13 agentic-era businesses, and more.</description>
+      <pubDate>Tue, 06 Oct 2026 16:15:41 +0000</pubDate>
+      <enclosure url="https://navdatascience.github.io/daily-ai-drop/episodes/2026-10-06/am/episode.mp3" length="3050533" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-06-am</guid>
+      <itunes:duration>381</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
