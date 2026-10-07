@@ -11,6 +11,24 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 7, 2026</title>
+      <description>Alex and Jordan break down three overnight AI videos: Google's open on-device EmbeddingGemma 2 multimodal embedding model, and two videos on getting GTA 5 running in a browser.</description>
+      <pubDate>Wed, 07 Oct 2026 11:58:12 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a341df71-50cf-4177-b49c-b83410ed33a8.mp3" length="1907557" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-07-am</guid>
+      <itunes:duration>238</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Daily AI Drop - Evening Edition, October 6, 2026</title>
+      <description>Alex and Jordan cover 6 fresh videos: Mistral Large 4 tested, 10 open-source replacements for paid AI subscriptions, Addy Osmani's Agent Skills, LangChain's Deep Agents harness, model routing, and one-config web search for agents.</description>
+      <pubDate>Wed, 07 Oct 2026 00:14:11 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-bdd61dcb-1db1-4f98-a6d7-7e110c5ff4c4.mp3" length="2526949" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-06-pm</guid>
+      <itunes:duration>315</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 6, 2026</title>
       <description>Alex and Jordan break down 11 fresh AI videos from 8 YouTube channels: Reflection Beam vs Cohere North 2, DeepSeek's hackable Harness, Meta's Muse agent negotiating with Siraj Raval's agent, LangChain Skills, 13 agentic-era businesses, and more.</description>
       <pubDate>Tue, 06 Oct 2026 16:15:41 +0000</pubDate>
