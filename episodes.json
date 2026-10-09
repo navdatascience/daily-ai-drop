@@ -48,5 +48,15 @@
   "bytes": 2377957,
   "duration_secs": 297,
   "guid": "daily-ai-drop-2026-10-08-am"
+ },
+ {
+  "title": "The Daily AI Drop - Evening Edition, October 8, 2026",
+  "description": "Alex and Jordan break down twenty afternoon AI videos: OpenAI's Intelligent UI rollout and Oracle's hiring copilot, Codex production monitoring, Google's ten million dollar bid for old work emails, Gemma 4 and EmbeddingGemma 2 on-device demos, plus forward deployed engineering jobs, portfolio projects that get you hired, and why agent costs explode.",
+  "pub_utc": "2026-10-09T00:20:52.262632+00:00",
+  "mp3_path": "episodes/2026-10-08/pm/episode.mp3",
+  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-911fea17-d92e-4242-a98f-7c399a89abdd.mp3",
+  "bytes": 3538405,
+  "duration_secs": 442,
+  "guid": "daily-ai-drop-2026-10-08-pm"
  }
 ]

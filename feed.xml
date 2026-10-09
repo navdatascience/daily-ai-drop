@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 8, 2026</title>
+      <description>Alex and Jordan break down twenty afternoon AI videos: OpenAI's Intelligent UI rollout and Oracle's hiring copilot, Codex production monitoring, Google's ten million dollar bid for old work emails, Gemma 4 and EmbeddingGemma 2 on-device demos, plus forward deployed engineering jobs, portfolio projects that get you hired, and why agent costs explode.</description>
+      <pubDate>Fri, 09 Oct 2026 00:20:52 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-911fea17-d92e-4242-a98f-7c399a89abdd.mp3" length="3538405" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-08-pm</guid>
+      <itunes:duration>442</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 8, 2026</title>
       <description>Alex and Jordan break down six overnight AI videos: LangChain on agent skills and OpenAI's hidden prompt-cache ceiling, Claude Haiku 5.5 going ten times cheaper and taking on GPT 6 Luna, Nate B. Jones asking whether Google can catch up, and Fahd Mirza testing a tiny local multimodal decision model.</description>
       <pubDate>Thu, 08 Oct 2026 11:58:31 +0000</pubDate>
