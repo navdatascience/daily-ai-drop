@@ -1,62 +1,72 @@
 [
- {
-  "title": "The Daily AI Drop - Morning Edition, October 6, 2026",
-  "description": "Alex and Jordan break down 11 fresh AI videos from 8 YouTube channels: Reflection Beam vs Cohere North 2, DeepSeek's hackable Harness, Meta's Muse agent negotiating with Siraj Raval's agent, LangChain Skills, 13 agentic-era businesses, and more.",
-  "pub_utc": "2026-10-06T16:15:41.192561+00:00",
-  "mp3_path": "episodes/2026-10-06/am/episode.mp3",
-  "bytes": 3050533,
-  "duration_secs": 381,
-  "guid": "daily-ai-drop-2026-10-06-am",
-  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a314f52a-5830-4cd5-ac5a-95d5acdbcb4f.mp3"
- },
- {
-  "title": "The Daily AI Drop - Evening Edition, October 6, 2026",
-  "description": "Alex and Jordan cover 6 fresh videos: Mistral Large 4 tested, 10 open-source replacements for paid AI subscriptions, Addy Osmani's Agent Skills, LangChain's Deep Agents harness, model routing, and one-config web search for agents.",
-  "pub_utc": "2026-10-07T00:14:11.854608+00:00",
-  "mp3_path": "episodes/2026-10-06/pm/episode.mp3",
-  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-bdd61dcb-1db1-4f98-a6d7-7e110c5ff4c4.mp3",
-  "bytes": 2526949,
-  "duration_secs": 315,
-  "guid": "daily-ai-drop-2026-10-06-pm"
- },
- {
-  "title": "The Daily AI Drop - Morning Edition, October 7, 2026",
-  "description": "Alex and Jordan break down three overnight AI videos: Google's open on-device EmbeddingGemma 2 multimodal embedding model, and two videos on getting GTA 5 running in a browser.",
-  "pub_utc": "2026-10-07T11:58:12.855581+00:00",
-  "mp3_path": "episodes/2026-10-07/am/episode.mp3",
-  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a341df71-50cf-4177-b49c-b83410ed33a8.mp3",
-  "bytes": 1907557,
-  "duration_secs": 238,
-  "guid": "daily-ai-drop-2026-10-07-am"
- },
- {
-  "title": "The Daily AI Drop - Evening Edition, October 7, 2026",
-  "description": "Alex and Jordan break down OpenAI DevDay 2026: GPT-6 with Intelligent UI, ChatGPT plugins, the Codex arc, and cost-cutting playbooks \u2014 plus Claude Haiku 5.5 tested, Gemini Argon on the leaderboard, Gemini 3.8 Live golf coaching, and LangChain Academy.",
-  "pub_utc": "2026-10-08T00:04:47.396504+00:00",
-  "mp3_path": "episodes/2026-10-07/pm/episode.mp3",
-  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-4b50ff56-20dc-4601-a66d-423d9532427a.mp3",
-  "bytes": 3482917,
-  "duration_secs": 435,
-  "guid": "daily-ai-drop-2026-10-07-pm"
- },
- {
-  "title": "The Daily AI Drop - Morning Edition, October 8, 2026",
-  "description": "Alex and Jordan break down six overnight AI videos: LangChain on agent skills and OpenAI's hidden prompt-cache ceiling, Claude Haiku 5.5 going ten times cheaper and taking on GPT 6 Luna, Nate B. Jones asking whether Google can catch up, and Fahd Mirza testing a tiny local multimodal decision model.",
-  "pub_utc": "2026-10-08T11:58:31.824508+00:00",
-  "mp3_path": "episodes/2026-10-08/am/episode.mp3",
-  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-8323f3b4-f908-4376-83cc-27ee7f05885e.mp3",
-  "bytes": 2377957,
-  "duration_secs": 297,
-  "guid": "daily-ai-drop-2026-10-08-am"
- },
- {
-  "title": "The Daily AI Drop - Evening Edition, October 8, 2026",
-  "description": "Alex and Jordan break down twenty afternoon AI videos: OpenAI's Intelligent UI rollout and Oracle's hiring copilot, Codex production monitoring, Google's ten million dollar bid for old work emails, Gemma 4 and EmbeddingGemma 2 on-device demos, plus forward deployed engineering jobs, portfolio projects that get you hired, and why agent costs explode.",
-  "pub_utc": "2026-10-09T00:20:52.262632+00:00",
-  "mp3_path": "episodes/2026-10-08/pm/episode.mp3",
-  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-911fea17-d92e-4242-a98f-7c399a89abdd.mp3",
-  "bytes": 3538405,
-  "duration_secs": 442,
-  "guid": "daily-ai-drop-2026-10-08-pm"
- }
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 6, 2026",
+    "description": "Alex and Jordan break down 11 fresh AI videos from 8 YouTube channels: Reflection Beam vs Cohere North 2, DeepSeek's hackable Harness, Meta's Muse agent negotiating with Siraj Raval's agent, LangChain Skills, 13 agentic-era businesses, and more.",
+    "pub_utc": "2026-10-06T16:15:41.192561+00:00",
+    "mp3_path": "episodes/2026-10-06/am/episode.mp3",
+    "bytes": 3050533,
+    "duration_secs": 381,
+    "guid": "daily-ai-drop-2026-10-06-am",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a314f52a-5830-4cd5-ac5a-95d5acdbcb4f.mp3"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 6, 2026",
+    "description": "Alex and Jordan cover 6 fresh videos: Mistral Large 4 tested, 10 open-source replacements for paid AI subscriptions, Addy Osmani's Agent Skills, LangChain's Deep Agents harness, model routing, and one-config web search for agents.",
+    "pub_utc": "2026-10-07T00:14:11.854608+00:00",
+    "mp3_path": "episodes/2026-10-06/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-bdd61dcb-1db1-4f98-a6d7-7e110c5ff4c4.mp3",
+    "bytes": 2526949,
+    "duration_secs": 315,
+    "guid": "daily-ai-drop-2026-10-06-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 7, 2026",
+    "description": "Alex and Jordan break down three overnight AI videos: Google's open on-device EmbeddingGemma 2 multimodal embedding model, and two videos on getting GTA 5 running in a browser.",
+    "pub_utc": "2026-10-07T11:58:12.855581+00:00",
+    "mp3_path": "episodes/2026-10-07/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a341df71-50cf-4177-b49c-b83410ed33a8.mp3",
+    "bytes": 1907557,
+    "duration_secs": 238,
+    "guid": "daily-ai-drop-2026-10-07-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 7, 2026",
+    "description": "Alex and Jordan break down OpenAI DevDay 2026: GPT-6 with Intelligent UI, ChatGPT plugins, the Codex arc, and cost-cutting playbooks \u2014 plus Claude Haiku 5.5 tested, Gemini Argon on the leaderboard, Gemini 3.8 Live golf coaching, and LangChain Academy.",
+    "pub_utc": "2026-10-08T00:04:47.396504+00:00",
+    "mp3_path": "episodes/2026-10-07/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-4b50ff56-20dc-4601-a66d-423d9532427a.mp3",
+    "bytes": 3482917,
+    "duration_secs": 435,
+    "guid": "daily-ai-drop-2026-10-07-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 8, 2026",
+    "description": "Alex and Jordan break down six overnight AI videos: LangChain on agent skills and OpenAI's hidden prompt-cache ceiling, Claude Haiku 5.5 going ten times cheaper and taking on GPT 6 Luna, Nate B. Jones asking whether Google can catch up, and Fahd Mirza testing a tiny local multimodal decision model.",
+    "pub_utc": "2026-10-08T11:58:31.824508+00:00",
+    "mp3_path": "episodes/2026-10-08/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-8323f3b4-f908-4376-83cc-27ee7f05885e.mp3",
+    "bytes": 2377957,
+    "duration_secs": 297,
+    "guid": "daily-ai-drop-2026-10-08-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 8, 2026",
+    "description": "Alex and Jordan break down twenty afternoon AI videos: OpenAI's Intelligent UI rollout and Oracle's hiring copilot, Codex production monitoring, Google's ten million dollar bid for old work emails, Gemma 4 and EmbeddingGemma 2 on-device demos, plus forward deployed engineering jobs, portfolio projects that get you hired, and why agent costs explode.",
+    "pub_utc": "2026-10-09T00:20:52.262632+00:00",
+    "mp3_path": "episodes/2026-10-08/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-911fea17-d92e-4242-a98f-7c399a89abdd.mp3",
+    "bytes": 3538405,
+    "duration_secs": 442,
+    "guid": "daily-ai-drop-2026-10-08-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 9, 2026",
+    "description": "Alex and Jordan break down four overnight AI videos: Fahd Mirza testing PG-Jev for plain-English database queries, pvergadia on why mathematical verification makes agents thrive in finance and coding, Sophos cutting threat response time by ninety-six percent with OpenAI Daybreak agents, and Matthew Berman's Tesla Powerwall and car backup during a power outage.",
+    "pub_utc": "2026-10-09T12:00:05Z",
+    "mp3_path": "episodes/2026-10-09/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a7c2b89f-0c74-4fc2-9597-8e16bb3895a8.mp3",
+    "bytes": 3567781,
+    "duration_secs": 445,
+    "guid": "daily-ai-drop-2026-10-09-am"
+  }
 ]

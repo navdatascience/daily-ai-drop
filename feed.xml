@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 9, 2026</title>
+      <description>Alex and Jordan break down four overnight AI videos: Fahd Mirza testing PG-Jev for plain-English database queries, pvergadia on why mathematical verification makes agents thrive in finance and coding, Sophos cutting threat response time by ninety-six percent with OpenAI Daybreak agents, and Matthew Berman's Tesla Powerwall and car backup during a power outage.</description>
+      <pubDate>Fri, 09 Oct 2026 12:00:05 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a7c2b89f-0c74-4fc2-9597-8e16bb3895a8.mp3" length="3567781" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-09-am</guid>
+      <itunes:duration>445</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 8, 2026</title>
       <description>Alex and Jordan break down twenty afternoon AI videos: OpenAI's Intelligent UI rollout and Oracle's hiring copilot, Codex production monitoring, Google's ten million dollar bid for old work emails, Gemma 4 and EmbeddingGemma 2 on-device demos, plus forward deployed engineering jobs, portfolio projects that get you hired, and why agent costs explode.</description>
       <pubDate>Fri, 09 Oct 2026 00:20:52 +0000</pubDate>
