@@ -68,5 +68,15 @@
     "bytes": 3567781,
     "duration_secs": 445,
     "guid": "daily-ai-drop-2026-10-09-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 9, 2026",
+    "description": "Thirteen afternoon videos: LangChain on skills, evaluations, and managed agents; OpenAI Dots go mobile; Gemini runs remote robots and live translation; Iris-3B paints pixels locally; plus quantum chemistry tooling.",
+    "pub_utc": "2026-10-10T00:08:13.277696+00:00",
+    "mp3_path": "episodes/2026-10-09/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-c22daffd-af4c-42ec-b4b3-fb29461970d9.mp3",
+    "bytes": 3207013,
+    "duration_secs": 400,
+    "guid": "daily-ai-drop-2026-10-09-pm"
   }
 ]

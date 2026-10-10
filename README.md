@@ -1,7 +1,7 @@
 # The Daily AI Drop
 
 A twice-daily AI podcast, generated automatically. Every morning (7 AM CT) and
-evening (7 PM CT), the latest videos from ten AI YouTube channels are
+evening (7 PM CT), the latest videos from fifteen AI YouTube channels are
 summarized and discussed by hosts Alex and Jordan.
 
 **Subscribe to the podcast:**
@@ -23,6 +23,7 @@ podcast app:
 
 Fahd Mirza · Mehul Mohan · The Next New Thing · Siraj Raval · Greg Isenberg ·
 Priyanka Vergadia (The Cloud Girl) · Nate B Jones · LangChain ·
-Aishwarya Srinivasan · Aish Reganti
+Aishwarya Srinivasan · Aish Reganti · Matthew Berman · OpenAI ·
+Google for Developers · Anthropic · Microsoft Developer
 
 *Generated with Muse. Episodes are published automatically twice a day.*
