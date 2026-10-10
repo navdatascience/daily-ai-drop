@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 10, 2026</title>
+      <description>Six overnight AI videos: Qwen Image 2.1 Turbo runs image generation locally in eight steps, Deno joins Cloudflare with a shutdown timeline, Nate B. Jones declares benchmarks dead, pvergadia revisits The Bitter Lesson, and Matthew Berman watches AI recreate the Adobe apps.</description>
+      <pubDate>Sat, 10 Oct 2026 11:59:33 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-896de3f3-9185-461d-a96a-45d98b3f7553.mp3" length="2278693" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-10-am</guid>
+      <itunes:duration>284</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 9, 2026</title>
       <description>Thirteen afternoon videos: LangChain on skills, evaluations, and managed agents; OpenAI Dots go mobile; Gemini runs remote robots and live translation; Iris-3B paints pixels locally; plus quantum chemistry tooling.</description>
       <pubDate>Sat, 10 Oct 2026 00:08:13 +0000</pubDate>

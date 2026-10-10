@@ -78,5 +78,15 @@
     "bytes": 3207013,
     "duration_secs": 400,
     "guid": "daily-ai-drop-2026-10-09-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 10, 2026",
+    "description": "Six overnight AI videos: Qwen Image 2.1 Turbo runs image generation locally in eight steps, Deno joins Cloudflare with a shutdown timeline, Nate B. Jones declares benchmarks dead, pvergadia revisits The Bitter Lesson, and Matthew Berman watches AI recreate the Adobe apps.",
+    "pub_utc": "2026-10-10T11:59:33.816478+00:00",
+    "mp3_path": "episodes/2026-10-10/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-896de3f3-9185-461d-a96a-45d98b3f7553.mp3",
+    "bytes": 2278693,
+    "duration_secs": 284,
+    "guid": "daily-ai-drop-2026-10-10-am"
   }
 ]
