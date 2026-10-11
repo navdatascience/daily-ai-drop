@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 10, 2026</title>
+      <description>Three afternoon AI videos: a 2-bit 27B model that beats its full-size parent at tool calling and runs on a laptop, Berman's provocative 'everything is solved' news roundup, and how Oracle's 95,000 Codex users turn plain English into SQL answers.</description>
+      <pubDate>Sun, 11 Oct 2026 00:21:47 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-20eeeb90-c97f-4ba1-bc78-1b539106c406.mp3" length="2786149" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-10-pm</guid>
+      <itunes:duration>348</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 10, 2026</title>
       <description>Six overnight AI videos: Qwen Image 2.1 Turbo runs image generation locally in eight steps, Deno joins Cloudflare with a shutdown timeline, Nate B. Jones declares benchmarks dead, pvergadia revisits The Bitter Lesson, and Matthew Berman watches AI recreate the Adobe apps.</description>
       <pubDate>Sat, 10 Oct 2026 11:59:33 +0000</pubDate>
