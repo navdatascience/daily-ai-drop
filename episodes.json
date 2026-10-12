@@ -108,5 +108,15 @@
   "bytes": 2556133,
   "duration_secs": 319,
   "guid": "daily-ai-drop-2026-10-11-pm"
+ },
+ {
+  "title": "The Daily AI Drop - Morning Edition, October 12, 2026",
+  "description": "Alex and Jordan break down five overnight AI videos: MiniMax's M3.1 Flash coding model with a million-token context, why the best model is the wrong question once capability saturates, a contrarian take that evals are overrated, a candid startup conversation, and why human creativity still matters.",
+  "pub_utc": "2026-10-12T11:58:43.081908+00:00",
+  "mp3_path": "episodes/2026-10-12/am/episode.mp3",
+  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-e10861e7-9f80-471e-939a-d3d858f6528e.mp3",
+  "bytes": 2346469,
+  "duration_secs": 293,
+  "guid": "daily-ai-drop-2026-10-12-am"
  }
 ]
