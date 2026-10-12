@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 11, 2026</title>
+      <description>Two afternoon AI videos: Fahd Mirza tests Microsoft's new Decision-1 decision-scoring model — fast, cheap structured judgments now rivaling TypeSafe's Jev — and Nate B. Jones argues that taste, agency, focus, resourcefulness, and follow-through are the five human skills getting more valuable as AI gets smarter.</description>
+      <pubDate>Mon, 12 Oct 2026 00:10:44 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-bdcd0adc-7520-4145-95b3-445b98f97aa0.mp3" length="2556133" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-11-pm</guid>
+      <itunes:duration>319</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 10, 2026</title>
       <description>Three afternoon AI videos: a 2-bit 27B model that beats its full-size parent at tool calling and runs on a laptop, Berman's provocative 'everything is solved' news roundup, and how Oracle's 95,000 Codex users turn plain English into SQL answers.</description>
       <pubDate>Sun, 11 Oct 2026 00:21:47 +0000</pubDate>

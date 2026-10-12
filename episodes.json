@@ -98,5 +98,15 @@
   "bytes": 2786149,
   "duration_secs": 348,
   "guid": "daily-ai-drop-2026-10-10-pm"
+ },
+ {
+  "title": "The Daily AI Drop - Evening Edition, October 11, 2026",
+  "description": "Two afternoon AI videos: Fahd Mirza tests Microsoft's new Decision-1 decision-scoring model \u2014 fast, cheap structured judgments now rivaling TypeSafe's Jev \u2014 and Nate B. Jones argues that taste, agency, focus, resourcefulness, and follow-through are the five human skills getting more valuable as AI gets smarter.",
+  "pub_utc": "2026-10-12T00:10:44.683323+00:00",
+  "mp3_path": "episodes/2026-10-11/pm/episode.mp3",
+  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-bdcd0adc-7520-4145-95b3-445b98f97aa0.mp3",
+  "bytes": 2556133,
+  "duration_secs": 319,
+  "guid": "daily-ai-drop-2026-10-11-pm"
  }
 ]
