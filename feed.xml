@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 12, 2026</title>
+      <description>Five new videos: a local 35B vision model from Fahd Mirza, Mehul Mohan on AI influencer scams, fixing AI website slop, Microsoft dev news, and OpenAI's Codex taking on code review.</description>
+      <pubDate>Tue, 13 Oct 2026 00:14:05 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-cd32c6b0-5755-482b-a050-cfe1da618eb4.mp3" length="2702437" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-12-pm</guid>
+      <itunes:duration>337</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 12, 2026</title>
       <description>Alex and Jordan break down five overnight AI videos: MiniMax's M3.1 Flash coding model with a million-token context, why the best model is the wrong question once capability saturates, a contrarian take that evals are overrated, a candid startup conversation, and why human creativity still matters.</description>
       <pubDate>Mon, 12 Oct 2026 11:58:43 +0000</pubDate>
