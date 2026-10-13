@@ -128,5 +128,15 @@
     "bytes": 2702437,
     "duration_secs": 337,
     "guid": "daily-ai-drop-2026-10-12-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 13, 2026",
+    "description": "Alex and Jordan break down four overnight AI videos: Meta's new frontier model Muse Wonder (tested by Fahd Mirza and reacted to by Matthew Berman), an inside look at the Claude Code harness from pvergadia, and LangChain's Interrupt London agent conference.",
+    "pub_utc": "2026-10-13T11:58:54.680823+00:00",
+    "mp3_path": "episodes/2026-10-13/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-4d6954ad-ee45-4489-95ce-47bc9ff48c96.mp3",
+    "bytes": 2128357,
+    "duration_secs": 266,
+    "guid": "daily-ai-drop-2026-10-13-am"
   }
 ]
