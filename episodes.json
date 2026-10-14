@@ -148,5 +148,15 @@
     "bytes": 5118949,
     "duration_secs": 639,
     "guid": "daily-ai-drop-2026-10-13-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 14, 2026",
+    "description": "Alex and Jordan break down four overnight AI videos: Google's frontier launch of Gemini 4 Argon and Fahd Mirza's deep-work tests, Terence Tao's lecture on the black-box problem in AI-generated math via Nate B. Jones, and Oracle's use of Codex to get business users answers from company data.",
+    "pub_utc": "2026-10-14T11:58:35Z",
+    "mp3_path": "episodes/2026-10-14/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-9b08d080-61fe-481f-8c60-bdf5948aad42.mp3",
+    "bytes": 2255461,
+    "duration_secs": 281,
+    "guid": "daily-ai-drop-2026-10-14-am"
   }
 ]
