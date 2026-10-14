@@ -138,5 +138,15 @@
     "bytes": 2128357,
     "duration_secs": 266,
     "guid": "daily-ai-drop-2026-10-13-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 13, 2026",
+    "description": "Alex and Jordan break down eleven afternoon AI videos: the Muse Wonder versus Opus 5.5 showdown, OpenAI's 700 AI-written math papers, Microsoft Discovery's science agents, Gemini building a 3D cathedral in Antigravity, ChatGPT Space for teams, ten AI agents given real jobs, and the arrest of an OpenAI engineer over a hidden recording device.",
+    "pub_utc": "2026-10-14T00:11:53.399125+00:00",
+    "mp3_path": "episodes/2026-10-13/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-380584d1-c577-492a-b724-add9430dab46.mp3",
+    "bytes": 5118949,
+    "duration_secs": 639,
+    "guid": "daily-ai-drop-2026-10-13-pm"
   }
 ]

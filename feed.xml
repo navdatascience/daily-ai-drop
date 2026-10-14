@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 13, 2026</title>
+      <description>Alex and Jordan break down eleven afternoon AI videos: the Muse Wonder versus Opus 5.5 showdown, OpenAI's 700 AI-written math papers, Microsoft Discovery's science agents, Gemini building a 3D cathedral in Antigravity, ChatGPT Space for teams, ten AI agents given real jobs, and the arrest of an OpenAI engineer over a hidden recording device.</description>
+      <pubDate>Wed, 14 Oct 2026 00:11:53 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-380584d1-c577-492a-b724-add9430dab46.mp3" length="5118949" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-13-pm</guid>
+      <itunes:duration>639</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 13, 2026</title>
       <description>Alex and Jordan break down four overnight AI videos: Meta's new frontier model Muse Wonder (tested by Fahd Mirza and reacted to by Matthew Berman), an inside look at the Claude Code harness from pvergadia, and LangChain's Interrupt London agent conference.</description>
       <pubDate>Tue, 13 Oct 2026 11:58:54 +0000</pubDate>
