@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 14, 2026</title>
+      <description>Alex and Jordan break down six afternoon AI videos: Google's official Gemini 4 Argon roadmap, LangChain's open-source Deep Agents harness, shipping AI agents from the terminal, an agentic RAG masterclass, a hands-on REA reverse-engineering tutorial, and free open-source replacements for ElevenLabs, Jira, Slack, and Granola.</description>
+      <pubDate>Thu, 15 Oct 2026 00:12:27 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-eb54f6b7-1ee8-48ca-bf0e-b9e77c567fb2.mp3" length="3582565" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-14-pm</guid>
+      <itunes:duration>447</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 14, 2026</title>
       <description>Alex and Jordan break down four overnight AI videos: Google's frontier launch of Gemini 4 Argon and Fahd Mirza's deep-work tests, Terence Tao's lecture on the black-box problem in AI-generated math via Nate B. Jones, and Oracle's use of Codex to get business users answers from company data.</description>
       <pubDate>Wed, 14 Oct 2026 11:58:35 +0000</pubDate>
