@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 16, 2026</title>
+      <description>Alex and Jordan cover two overnight videos: Fahd Mirza's hands-on test of the tiny 2.4-gigabyte Ternary Bonsai 2 9B vision model, and pvergadia on why passwords and MFA can still be hacked — and why device-bound credentials are the real fix.</description>
+      <pubDate>Fri, 16 Oct 2026 11:58:21 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-d5bf0df5-3e37-4ec3-bad9-0e7401da5314.mp3" length="1846309" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-16-am</guid>
+      <itunes:duration>230</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 15, 2026</title>
       <description>Alex and Jordan break down a packed afternoon: Gemini 4 Argon everywhere, a Grok Voice 3.0 vs GPT-Live-1.1 voice face-off, Stripe's one-week agent build, SentinelOne's weeks-to-hours cyber research, and the psychology of frontier-model hype.</description>
       <pubDate>Fri, 16 Oct 2026 00:07:07 +0000</pubDate>
