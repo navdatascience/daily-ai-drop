@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 16, 2026</title>
+      <description>Alex and Jordan break down five afternoon drops: OpenAI's Dot triaging a 3am on-call page and running shared team tasks, LangChain on why continual learning is still unsolved, Fahd Mirza testing NVIDIA's 74B Nemotron locally, and the week's top GitHub AI repos.</description>
+      <pubDate>Sat, 17 Oct 2026 00:14:48 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-b15fe1e1-3c1b-4773-9d32-4ce6c93f6c25.mp3" length="2866021" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-16-pm</guid>
+      <itunes:duration>358</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 16, 2026</title>
       <description>Alex and Jordan cover two overnight videos: Fahd Mirza's hands-on test of the tiny 2.4-gigabyte Ternary Bonsai 2 9B vision model, and pvergadia on why passwords and MFA can still be hacked — and why device-bound credentials are the real fix.</description>
       <pubDate>Fri, 16 Oct 2026 11:58:21 +0000</pubDate>
