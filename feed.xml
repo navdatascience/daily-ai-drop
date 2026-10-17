@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 17, 2026</title>
+      <description>Alex and Jordan cover three overnight videos: Nate B. Jones on asking AI to assess your intelligence, Matthew Berman on Gemini 4 Argon building an Excel clone in twenty minutes, and Fahd Mirza testing Fish Audio Drama 3 voice cloning locally.</description>
+      <pubDate>Sat, 17 Oct 2026 11:58:51 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-bfd32200-ea65-4320-88ad-855384c67341.mp3" length="2563813" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-17-am</guid>
+      <itunes:duration>320</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 16, 2026</title>
       <description>Alex and Jordan break down five afternoon drops: OpenAI's Dot triaging a 3am on-call page and running shared team tasks, LangChain on why continual learning is still unsolved, Fahd Mirza testing NVIDIA's 74B Nemotron locally, and the week's top GitHub AI repos.</description>
       <pubDate>Sat, 17 Oct 2026 00:14:48 +0000</pubDate>
