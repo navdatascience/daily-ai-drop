@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 18, 2026</title>
+      <description>Alex and Jordan cover a quiet Saturday night: Nate B. Jones on choosing model vs effort, and Aishwarya Srinivasan's interview with Google Fellow Chris Pinkney on preparing enterprise data for AI with knowledge graphs.</description>
+      <pubDate>Sun, 18 Oct 2026 11:58:50 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-cc96c06b-0894-48c8-a3e0-146465c560d3.mp3" length="2145061" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-18-am</guid>
+      <itunes:duration>268</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 17, 2026</title>
       <description>Alex and Jordan cover four afternoon drops: Amazon blocking AI agents, Fahd Mirza testing local VoiceStudio voice AI and DeepSeek V4.1 Flash, and Matthew Berman watching Gemini 4 Argon build a Fall Guys clone.</description>
       <pubDate>Sun, 18 Oct 2026 00:05:30 +0000</pubDate>

@@ -228,5 +228,15 @@
     "bytes": 2398885,
     "duration_secs": 299,
     "guid": "daily-ai-drop-2026-10-17-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 18, 2026",
+    "description": "Alex and Jordan cover a quiet Saturday night: Nate B. Jones on choosing model vs effort, and Aishwarya Srinivasan's interview with Google Fellow Chris Pinkney on preparing enterprise data for AI with knowledge graphs.",
+    "pub_utc": "2026-10-18T11:58:50.479279+00:00",
+    "mp3_path": "episodes/2026-10-18/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-cc96c06b-0894-48c8-a3e0-146465c560d3.mp3",
+    "bytes": 2145061,
+    "duration_secs": 268,
+    "guid": "daily-ai-drop-2026-10-18-am"
   }
 ]
