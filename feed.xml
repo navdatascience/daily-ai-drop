@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 19, 2026</title>
+      <description>Alex and Jordan cover five overnight drops: OpenAI's new ChatGPT Voice powered by GPT Live, Fahd Mirza testing free Claude Code, Anthropic's seven-layer code review for Claude Code, LangChain's Managed Deep Agents, and Nate B. Jones on model vs effort.</description>
+      <pubDate>Mon, 19 Oct 2026 11:59:11 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-047697b2-db4f-4463-b00d-933056d2ddfa.mp3" length="2328229" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-19-am</guid>
+      <itunes:duration>291</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 18, 2026</title>
       <description>Alex and Jordan cover six afternoon drops: agents going agent-first on WordPress, AI agent swarms in the wild, Elorian Glimpse's grounded visual thinking, a flying car hype-check, how to review AI-generated code, and DeepSeek's memory efficiency.</description>
       <pubDate>Mon, 19 Oct 2026 00:04:12 +0000</pubDate>
