@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 18, 2026</title>
+      <description>Alex and Jordan cover six afternoon drops: agents going agent-first on WordPress, AI agent swarms in the wild, Elorian Glimpse's grounded visual thinking, a flying car hype-check, how to review AI-generated code, and DeepSeek's memory efficiency.</description>
+      <pubDate>Mon, 19 Oct 2026 00:04:12 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-1ea07a27-d73b-486c-accf-c258a3d99eab.mp3" length="2660965" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-18-pm</guid>
+      <itunes:duration>332</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 18, 2026</title>
       <description>Alex and Jordan cover a quiet Saturday night: Nate B. Jones on choosing model vs effort, and Aishwarya Srinivasan's interview with Google Fellow Chris Pinkney on preparing enterprise data for AI with knowledge graphs.</description>
       <pubDate>Sun, 18 Oct 2026 11:58:50 +0000</pubDate>
