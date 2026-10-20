@@ -258,5 +258,15 @@
   "bytes": 2328229,
   "duration_secs": 291,
   "guid": "daily-ai-drop-2026-10-19-am"
+ },
+ {
+  "title": "The Daily AI Drop - Evening Edition, October 19, 2026",
+  "description": "Podium's agent scaling playbook, the post-password fix, Thomson Reuters legal AI, Greg Isenberg on Meta Muse money, Perplexity's new decider model, AI rewriting PS5 games, and cooking with Codex.",
+  "pub_utc": "2026-10-20T00:07:01.968395+00:00",
+  "mp3_path": "episodes/2026-10-19/pm/episode.mp3",
+  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-b297931d-2a31-4b1f-b97e-b7e7d780ff48.mp3",
+  "bytes": 3696229,
+  "duration_secs": 462,
+  "guid": "daily-ai-drop-2026-10-19-pm"
  }
 ]
