@@ -2,14 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Daily AI Drop</title>
-    <link>https://github.com/navdatascience/daily-ai-drop</link>
+    <link>https://github.com/navdatascience/navdatascience/daily-ai-drop</link>
     <description>Twice daily, Alex and Jordan watch the best AI channels on YouTube so you don't have to. New videos summarized, explained, and put in context — every morning and evening.</description>
     <language>en-us</language>
     <itunes:author>The Daily AI Drop</itunes:author>
     <itunes:summary>Twice daily, Alex and Jordan watch the best AI channels on YouTube so you don't have to. New videos summarized, explained, and put in context — every morning and evening.</itunes:summary>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
+    <itunes:image href="https://navdatascience.github.io/navdatascience/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Daily AI Drop - Morning Edition, October 21, 2026</title>
+      <description>Alex and Jordan cover three overnight drops: NVIDIA's Nemotron 3.5 Super vision model with native speculative decoding, Siraj Raval giving an AI agent one day to start a product business, and Microsoft's SQL Modernization Day sessions on AI-ready databases.</description>
+      <pubDate>Wed, 21 Oct 2026 11:58:31 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-72fdc935-9454-43de-af0b-c59570907abb.mp3" length="2234533" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-21-am</guid>
+      <itunes:duration>279</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The Daily AI Drop - Evening Edition, October 20, 2026</title>
       <description>Alex and Jordan cover 17 afternoon drops: DeepSeek's V4.1 Flash and open-sourced DeepInfer, a free $400 credit program for AI builders, Nate Jones on Mac Mini memory for agents, ChatGPT ads and privacy, Ornith-1.5 122B running locally, AI agents cracking a vault with Ghidra, a one-person $570K-a-year agency, OpenAI's shopping agent demo, and Microsoft's eight-video SQL Server 2025 blitz.</description>
