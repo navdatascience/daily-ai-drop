@@ -298,5 +298,15 @@
   "bytes": 2234533,
   "duration_secs": 279,
   "guid": "daily-ai-drop-2026-10-21-am"
+ },
+ {
+  "title": "The Daily AI Drop - Evening Edition, October 21, 2026",
+  "description": "Alex and Jordan cover eight afternoon drops: Sam Altman's big interview on AI consciousness and OpenAI's new hardware, V7's GPT-5.6 Luna customer win, Claude Mem shared agent memory, Gemini 3.8 Flash voice design, Deep Agents context tricks, Greg Isenberg's nine stages of agent adoption, Flint 40B local coding model, and a major HTTPS blunder.",
+  "pub_utc": "2026-10-22T01:01:45.786302+00:00",
+  "mp3_path": "episodes/2026-10-21/pm/episode.mp3",
+  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-516f8fa5-58aa-47a0-a865-9650189ee138.mp3",
+  "bytes": 3156325,
+  "duration_secs": 394,
+  "guid": "daily-ai-drop-2026-10-21-pm"
  }
 ]
