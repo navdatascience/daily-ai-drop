@@ -308,5 +308,15 @@
   "bytes": 3156325,
   "duration_secs": 394,
   "guid": "daily-ai-drop-2026-10-21-pm"
+ },
+ {
+  "title": "The Daily AI Drop - Morning Edition, October 22, 2026",
+  "description": "Alex and Jordan cover four overnight drops: Anthropic's new personal agent Claude Duet, Fahd Mirza's hands-on test of Vast-10M's ten-million-token context window, Microsoft's agentic root cause analysis, and Agent Optimizer in Microsoft Foundry.",
+  "pub_utc": "2026-10-22T11:59:07.393029+00:00",
+  "mp3_path": "episodes/2026-10-22/am/episode.mp3",
+  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-f1a48df4-63ed-4b20-9516-7868e6f8250e.mp3",
+  "bytes": 2612197,
+  "duration_secs": 326,
+  "guid": "daily-ai-drop-2026-10-22-am"
  }
 ]
