@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 22, 2026</title>
+      <description>Alex and Jordan cover ten afternoon drops: Uber rolls out ChatGPT Work to 30,000 employees, Fahd Mirza tests a local memory-writing model for agents, Nate B. Jones on Goodfire's essay claiming neural networks are already readable, plus AI system design in 20 minutes, monetizing your agents, and Microsoft's five-video data layer masterclass for production agents.</description>
+      <pubDate>Fri, 23 Oct 2026 00:07:37 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-506afb14-2bee-4886-a748-2d257d6e0892.mp3" length="3719077" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-22-pm</guid>
+      <itunes:duration>464</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 22, 2026</title>
       <description>Alex and Jordan cover four overnight drops: Anthropic's new personal agent Claude Duet, Fahd Mirza's hands-on test of Vast-10M's ten-million-token context window, Microsoft's agentic root cause analysis, and Agent Optimizer in Microsoft Foundry.</description>
       <pubDate>Thu, 22 Oct 2026 11:59:07 +0000</pubDate>
