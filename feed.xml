@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 23, 2026</title>
+      <description>Alex and Jordan cover three overnight drops: InclusionAI's Ling-3.0-flash-Sante healthcare model tested by Fahd Mirza, Nate B. Jones doubling down on the Goodfire interpretability story, and Priyanka Vergadia reverse engineering the Claude Code harness.</description>
+      <pubDate>Fri, 23 Oct 2026 11:58:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-ee9657a3-d3ba-4079-8769-ec01cd7cab3f.mp3" length="1608805" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-23-am</guid>
+      <itunes:duration>201</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 22, 2026</title>
       <description>Alex and Jordan cover ten afternoon drops: Uber rolls out ChatGPT Work to 30,000 employees, Fahd Mirza tests a local memory-writing model for agents, Nate B. Jones on Goodfire's essay claiming neural networks are already readable, plus AI system design in 20 minutes, monetizing your agents, and Microsoft's five-video data layer masterclass for production agents.</description>
       <pubDate>Fri, 23 Oct 2026 00:07:37 +0000</pubDate>
