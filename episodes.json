@@ -338,5 +338,15 @@
   "bytes": 1608805,
   "duration_secs": 201,
   "guid": "daily-ai-drop-2026-10-23-am"
+ },
+ {
+  "title": "The Daily AI Drop - Evening Edition, October 23, 2026",
+  "description": "Alex and Jordan cover sixteen afternoon drops: OpenAI's enterprise agent blitz (Codex in finance, legal workflows at AT&T, Shield's IT agents, ChatGPT Work training at Realpage.), the Kimi K3.1 open-weight moment, continual learning going boring, and the three-layer stack for landing an FDE job.",
+  "pub_utc": "2026-10-24T00:05:00.966319+00:00",
+  "mp3_path": "episodes/2026-10-23/pm/episode.mp3",
+  "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-bf3744cd-922f-4881-a17d-1629f7461b8a.mp3",
+  "bytes": 2926117,
+  "duration_secs": 365,
+  "guid": "daily-ai-drop-2026-10-23-pm"
  }
 ]
