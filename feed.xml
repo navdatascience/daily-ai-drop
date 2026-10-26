@@ -11,6 +11,51 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 26, 2026</title>
+      <description>Alex and Jordan cover four overnight drops: DecisionNode's millisecond decision model, prompt injection attacks on agents, the system design behind Netflix recommendations, and Microsoft's .NET 11, Python on Arm64, and Foundry browser agent updates.</description>
+      <pubDate>Mon, 26 Oct 2026 11:59:33 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-56fb4e89-0518-4f8b-a26a-cfc24efff5d2.mp3" length="2386597" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-26-am</guid>
+      <itunes:duration>298</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Daily AI Drop - Evening Edition, October 25, 2026</title>
+      <description>Alex and Jordan cover three afternoon drops: Fahd Mirza testing FLUX 3 Klein locally and asking whether image generation has plateaued, a startup that closed after ChatGPT arrived, and Nate B. Jones on why enterprise AI pricing works differently than you think.</description>
+      <pubDate>Mon, 26 Oct 2026 00:17:20 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-39eda817-538c-461c-8071-cfdb380c2775.mp3" length="2386021" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-25-pm</guid>
+      <itunes:duration>298</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Daily AI Drop - Morning Edition, October 25, 2026</title>
+      <description>Alex and Jordan cover five overnight drops: Dessa, the speech model that learned to talk by listening, Sam Altman on what people still bring to an AI world, Nate B. Jones on AI agents as messy roommates, the new shape of AI coding interviews, and a web vulnerability affecting seventy percent of sites.</description>
+      <pubDate>Sun, 25 Oct 2026 12:03:08 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-b15ea6a8-4f71-4791-b0eb-5283877dd16f.mp3" length="2925541" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-25-am</guid>
+      <itunes:duration>365</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Daily AI Drop - Evening Edition, October 24, 2026</title>
+      <description>An evening of security and trust: a tiny local NVIDIA model, attackers hunting AI API keys, a personal hacking survival guide, and questions about Kimi K3.1's benchmark scores.</description>
+      <pubDate>Sun, 25 Oct 2026 00:03:24 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a729bb9b-5fdf-4c8f-9ade-3a28387d9559.mp3" length="2659237" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-24-pm</guid>
+      <itunes:duration>332</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Daily AI Drop - Morning Edition, October 24, 2026</title>
+      <description>Alex and Jordan cover four overnight drops: the five engineering disciplines every AI builder should know, the Kimi K3.1 verdict, why AI is eating software and the college path, and a full beginner's course on cloud computing for AI engineers.</description>
+      <pubDate>Sat, 24 Oct 2026 11:58:39 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-e8a26398-f587-4b79-8afe-1bec6645d731.mp3" length="2302501" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-24-am</guid>
+      <itunes:duration>287</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 23, 2026</title>
       <description>Alex and Jordan cover sixteen afternoon drops: OpenAI's enterprise agent blitz (Codex in finance, legal workflows at AT&amp;T, Shield's IT agents, ChatGPT Work training at Realpage.), the Kimi K3.1 open-weight moment, continual learning going boring, and the three-layer stack for landing an FDE job.</description>
       <pubDate>Sat, 24 Oct 2026 00:05:00 +0000</pubDate>
