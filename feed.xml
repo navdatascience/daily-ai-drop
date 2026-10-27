@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 26, 2026</title>
+      <description>Alex and Jordan cover thirteen afternoon drops: agents running a real shop, the one-person AI business, Claude Duet's early verdict, a benchmark star that failed real tests, LangChain's managed deep agents, OpenAI's six builder stories including GPT-6.1 Terra, and Azure's DDoS defense.</description>
+      <pubDate>Tue, 27 Oct 2026 00:09:57 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-ac7603f0-0000-45d6-abf5-029c44b42989.mp3" length="3459877" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-26-pm</guid>
+      <itunes:duration>432</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 26, 2026</title>
       <description>Alex and Jordan cover four overnight drops: DecisionNode's millisecond decision model, prompt injection attacks on agents, the system design behind Netflix recommendations, and Microsoft's .NET 11, Python on Arm64, and Foundry browser agent updates.</description>
       <pubDate>Mon, 26 Oct 2026 11:59:33 +0000</pubDate>
