@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 27, 2026</title>
+      <description>Alex and Jordan cover a packed afternoon: OpenAI's batch of builder stories on Codex, Astra, security and legal work, Anthropic's IPO voting power, agents that do real work, MCP 2.0, Google's Genie 4 world model, and practical tools for documents, coding teams, and creators.</description>
+      <pubDate>Wed, 28 Oct 2026 00:19:59 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-db94328f-3338-4c67-9804-9ed24938753c.mp3" length="3238501" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-27-pm</guid>
+      <itunes:duration>404</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 27, 2026</title>
       <description>Alex and Jordan cover five overnight drops: Anthropic's S-1 IPO filing, Devin triaging Slack at Cognition, a giant DeepSeek model running on one GPU, Microsoft's hybrid factory agents, and no-code Claude agents.</description>
       <pubDate>Tue, 27 Oct 2026 12:00:01 +0000</pubDate>
