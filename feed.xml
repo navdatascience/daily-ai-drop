@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 28, 2026</title>
+      <description>Alex and Jordan cover running Liquid AI's LFM3 locally, fixing the context window problem, DeepSeek's big benchmark win, and how Legora is transforming legal work with AI.</description>
+      <pubDate>Wed, 28 Oct 2026 11:58:25 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-716f6002-e421-4a5d-ace5-51ab59187022.mp3" length="2241829" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-28-am</guid>
+      <itunes:duration>280</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 27, 2026</title>
       <description>Alex and Jordan cover a packed afternoon: OpenAI's batch of builder stories on Codex, Astra, security and legal work, Anthropic's IPO voting power, agents that do real work, MCP 2.0, Google's Genie 4 world model, and practical tools for documents, coding teams, and creators.</description>
       <pubDate>Wed, 28 Oct 2026 00:19:59 +0000</pubDate>
