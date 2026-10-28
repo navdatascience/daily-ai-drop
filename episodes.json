@@ -428,5 +428,15 @@
     "bytes": 3238501,
     "duration_secs": 404,
     "guid": "daily-ai-drop-2026-10-27-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 28, 2026",
+    "description": "Alex and Jordan cover running Liquid AI's LFM3 locally, fixing the context window problem, DeepSeek's big benchmark win, and how Legora is transforming legal work with AI.",
+    "pub_utc": "2026-10-28T11:58:25.810579+00:00",
+    "mp3_path": "episodes/2026-10-28/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-716f6002-e421-4a5d-ace5-51ab59187022.mp3",
+    "bytes": 2241829,
+    "duration_secs": 280,
+    "guid": "daily-ai-drop-2026-10-28-am"
   }
 ]
