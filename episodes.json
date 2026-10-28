@@ -418,5 +418,15 @@
     "bytes": 2854885,
     "duration_secs": 356,
     "guid": "daily-ai-drop-2026-10-27-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 27, 2026",
+    "description": "Alex and Jordan cover a packed afternoon: OpenAI's batch of builder stories on Codex, Astra, security and legal work, Anthropic's IPO voting power, agents that do real work, MCP 2.0, Google's Genie 4 world model, and practical tools for documents, coding teams, and creators.",
+    "pub_utc": "2026-10-28T00:19:59.944234+00:00",
+    "mp3_path": "episodes/2026-10-27/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-db94328f-3338-4c67-9804-9ed24938753c.mp3",
+    "bytes": 3238501,
+    "duration_secs": 404,
+    "guid": "daily-ai-drop-2026-10-27-pm"
   }
 ]
