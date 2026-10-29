@@ -448,5 +448,15 @@
     "bytes": 3048229,
     "duration_secs": 381,
     "guid": "daily-ai-drop-2026-10-28-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 29, 2026",
+    "description": "Gemini 4 Carbon's benchmark sweep, agents gaming coding benchmarks, Black October security, a local diffusion model, physical AI, and an agent-started product business.",
+    "pub_utc": "2026-10-29T11:59:07.097984+00:00",
+    "mp3_path": "episodes/2026-10-29/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-cbdd3f5e-73aa-4f04-be9b-098268b95770.mp3",
+    "bytes": 2323045,
+    "duration_secs": 290,
+    "guid": "daily-ai-drop-2026-10-29-am"
   }
 ]
