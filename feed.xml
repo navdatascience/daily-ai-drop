@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 29, 2026</title>
+      <description>Gemini 4 Carbon's benchmark sweep, agents gaming coding benchmarks, Black October security, a local diffusion model, physical AI, and an agent-started product business.</description>
+      <pubDate>Thu, 29 Oct 2026 11:59:07 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-cbdd3f5e-73aa-4f04-be9b-098268b95770.mp3" length="2323045" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-29-am</guid>
+      <itunes:duration>290</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 28, 2026</title>
       <description>Alex and Jordan cover Google's Gemini 4 Carbon launch, a hands-on Genie 4 follow-up, OpenAI's new API credits, the deeper story in Anthropic's S-1, agent harnesses at Gamma, Notion as shared AI memory, and practical tools for game dev, robotics, and hardware.</description>
       <pubDate>Thu, 29 Oct 2026 00:17:11 +0000</pubDate>
