@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, October 30, 2026</title>
+      <description>A better cockpit for coding agents, the Jevons paradox bet behind Jev, emotional intelligence in AI, open science agents, and voice AI's turn-taking problem.</description>
+      <pubDate>Fri, 30 Oct 2026 11:58:41 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-7e6eb6e9-aeee-49e1-9df5-4057e40915cb.mp3" length="2616229" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-30-am</guid>
+      <itunes:duration>327</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 29, 2026</title>
       <description>Agents go to work at Zendesk, Skyworks, and in your database, plus a serverless shake-up, offline speech AI, and the case that SaaS is dead.</description>
       <pubDate>Fri, 30 Oct 2026 00:18:16 +0000</pubDate>
