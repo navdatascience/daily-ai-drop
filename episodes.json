@@ -458,5 +458,15 @@
     "bytes": 2323045,
     "duration_secs": 290,
     "guid": "daily-ai-drop-2026-10-29-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 29, 2026",
+    "description": "Agents go to work at Zendesk, Skyworks, and in your database, plus a serverless shake-up, offline speech AI, and the case that SaaS is dead.",
+    "pub_utc": "2026-10-30T00:18:16.599760+00:00",
+    "mp3_path": "episodes/2026-10-29/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-d03af75b-7fa4-4d11-b6cb-1466bdbeb9e7.mp3",
+    "bytes": 3285349,
+    "duration_secs": 410,
+    "guid": "daily-ai-drop-2026-10-29-pm"
   }
 ]
