@@ -478,5 +478,15 @@
     "bytes": 2616229,
     "duration_secs": 327,
     "guid": "daily-ai-drop-2026-10-30-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 30, 2026",
+    "description": "A cheaper DeepSeek, free models with automatic switching, a 120-billion-parameter model running offline on a laptop, a 164-megabyte speech model, and why owning your AI system matters.",
+    "pub_utc": "2026-10-31T00:20:23.625406+00:00",
+    "mp3_path": "episodes/2026-10-30/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-cecd9236-2888-4fc0-97e2-05b453f85022.mp3",
+    "bytes": 3820069,
+    "duration_secs": 477,
+    "guid": "daily-ai-drop-2026-10-30-pm"
   }
 ]
