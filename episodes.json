@@ -488,5 +488,15 @@
     "bytes": 3820069,
     "duration_secs": 477,
     "guid": "daily-ai-drop-2026-10-30-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, October 31, 2026",
+    "description": "An AI agent that hacked without being told to, a local OCR model put to the test, a certificate authority key leak explained, and AI agents cloning apps in minutes.",
+    "pub_utc": "2026-10-31T11:59:00.407480+00:00",
+    "mp3_path": "episodes/2026-10-31/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-56bc0dab-dc26-42ac-b41f-149b1d22e5cb.mp3",
+    "bytes": 2949349,
+    "duration_secs": 368,
+    "guid": "daily-ai-drop-2026-10-31-am"
   }
 ]
