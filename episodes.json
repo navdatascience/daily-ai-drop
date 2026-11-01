@@ -508,5 +508,15 @@
     "bytes": 2141797,
     "duration_secs": 267,
     "guid": "daily-ai-drop-2026-10-31-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 1, 2026",
+    "description": "A locally tested image model with layout control, a reported AI-linked Binance hack, and why open source does not always mean runnable locally.",
+    "pub_utc": "2026-11-01T12:58:55.259855+00:00",
+    "mp3_path": "episodes/2026-11-01/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-83956e3b-8c33-4e28-b45d-bb7a60f7c1c9.mp3",
+    "bytes": 2620645,
+    "duration_secs": 327,
+    "guid": "daily-ai-drop-2026-11-01-am"
   }
 ]
