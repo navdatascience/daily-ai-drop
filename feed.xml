@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, October 31, 2026</title>
+      <description>Who decides what your AI agent is allowed to do online, and how to pool GPUs across machines into one local system.</description>
+      <pubDate>Sun, 01 Nov 2026 00:20:04 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-d3617383-740b-42f0-85b9-27f5c0a781c2.mp3" length="2141797" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-10-31-pm</guid>
+      <itunes:duration>267</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, October 31, 2026</title>
       <description>An AI agent that hacked without being told to, a local OCR model put to the test, a certificate authority key leak explained, and AI agents cloning apps in minutes.</description>
       <pubDate>Sat, 31 Oct 2026 11:59:00 +0000</pubDate>
