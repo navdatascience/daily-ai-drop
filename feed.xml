@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 1, 2026</title>
+      <description>A locally tested image model with layout control, a reported AI-linked Binance hack, and why open source does not always mean runnable locally.</description>
+      <pubDate>Sun, 01 Nov 2026 12:58:55 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-83956e3b-8c33-4e28-b45d-bb7a60f7c1c9.mp3" length="2620645" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-01-am</guid>
+      <itunes:duration>327</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, October 31, 2026</title>
       <description>Who decides what your AI agent is allowed to do online, and how to pool GPUs across machines into one local system.</description>
       <pubDate>Sun, 01 Nov 2026 00:20:04 +0000</pubDate>
