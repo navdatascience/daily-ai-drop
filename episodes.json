@@ -498,5 +498,15 @@
     "bytes": 2949349,
     "duration_secs": 368,
     "guid": "daily-ai-drop-2026-10-31-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, October 31, 2026",
+    "description": "Who decides what your AI agent is allowed to do online, and how to pool GPUs across machines into one local system.",
+    "pub_utc": "2026-11-01T00:20:04.670676+00:00",
+    "mp3_path": "episodes/2026-10-31/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-d3617383-740b-42f0-85b9-27f5c0a781c2.mp3",
+    "bytes": 2141797,
+    "duration_secs": 267,
+    "guid": "daily-ai-drop-2026-10-31-pm"
   }
 ]
