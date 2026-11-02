@@ -528,5 +528,15 @@
     "bytes": 2286565,
     "duration_secs": 285,
     "guid": "daily-ai-drop-2026-11-01-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 2, 2026",
+    "description": "Why your AI agent costs more after midnight, and how to run big models like DeepSeek and Qwen on a single GPU locally.",
+    "pub_utc": "2026-11-02T12:58:06.144441+00:00",
+    "mp3_path": "episodes/2026-11-02/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-6bfb2da5-0d5e-4020-9a3e-767472f400ab.mp3",
+    "bytes": 1834021,
+    "duration_secs": 229,
+    "guid": "daily-ai-drop-2026-11-02-am"
   }
 ]
