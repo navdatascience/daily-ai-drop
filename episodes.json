@@ -538,5 +538,15 @@
     "bytes": 1834021,
     "duration_secs": 229,
     "guid": "daily-ai-drop-2026-11-02-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 2, 2026",
+    "description": "Qwen commits to staying open, Coinbase shows what trusted enterprise AI looks like, a solo founder turns Grok Bots into a million-dollar business, and big tech rivals start letting each other in.",
+    "pub_utc": "2026-11-03T01:21:23.935131+00:00",
+    "mp3_path": "episodes/2026-11-02/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-778da816-1fdd-4db6-b852-4192ed862aec.mp3",
+    "bytes": 2995429,
+    "duration_secs": 374,
+    "guid": "daily-ai-drop-2026-11-02-pm"
   }
 ]
