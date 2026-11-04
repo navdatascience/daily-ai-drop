@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 4, 2026</title>
+      <description>Crouton Alpha, a free stealth model for subagents, a walkthrough on building self-improving AI agents, and why OpenAI acquired drug development startup Orchestra Bio.</description>
+      <pubDate>Wed, 04 Nov 2026 12:59:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-e0af4dc6-9642-4cc6-86d1-c3f6eda0f885.mp3" length="2228965" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-04-am</guid>
+      <itunes:duration>278</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 3, 2026</title>
       <description>Microsoft on shipping real AI agents and offline edge AI, OpenAI on privacy, voice banking, code review and hardware-making, plus Google's forward deployed engineering role.</description>
       <pubDate>Wed, 04 Nov 2026 01:23:44 +0000</pubDate>
