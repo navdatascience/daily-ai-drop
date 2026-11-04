@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 3, 2026</title>
+      <description>Microsoft on shipping real AI agents and offline edge AI, OpenAI on privacy, voice banking, code review and hardware-making, plus Google's forward deployed engineering role.</description>
+      <pubDate>Wed, 04 Nov 2026 01:23:44 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-36949738-aa87-4c30-aafc-c1b6ccfac131.mp3" length="2568805" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-03-pm</guid>
+      <itunes:duration>321</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 3, 2026</title>
       <description>A giant model squeezed to one bit for local coding, hackers outpacing patches, Claude Code video editing, Google's forward deployed engineer role, and AI agents at the industrial edge.</description>
       <pubDate>Tue, 03 Nov 2026 12:58:45 +0000</pubDate>
