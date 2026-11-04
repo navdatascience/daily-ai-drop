@@ -568,5 +568,15 @@
     "bytes": 2568805,
     "duration_secs": 321,
     "guid": "daily-ai-drop-2026-11-03-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 4, 2026",
+    "description": "Crouton Alpha, a free stealth model for subagents, a walkthrough on building self-improving AI agents, and why OpenAI acquired drug development startup Orchestra Bio.",
+    "pub_utc": "2026-11-04T12:59:14.608783+00:00",
+    "mp3_path": "episodes/2026-11-04/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-e0af4dc6-9642-4cc6-86d1-c3f6eda0f885.mp3",
+    "bytes": 2228965,
+    "duration_secs": 278,
+    "guid": "daily-ai-drop-2026-11-04-am"
   }
 ]
