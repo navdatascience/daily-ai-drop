@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 4, 2026</title>
+      <description>Faster GPT-Image-2.6 generation, browser-using agents from LangChain, Greg Isenberg on building wealth in the age of AI, Matthew Berman on the most important AI paper right now, plus Messi's room redesign and Figma's self-serve analytics.</description>
+      <pubDate>Thu, 05 Nov 2026 01:09:15 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-24e5d2a0-b037-4b49-b1c5-46ca0b4d9b62.mp3" length="2965669" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-04-pm</guid>
+      <itunes:duration>370</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 4, 2026</title>
       <description>Crouton Alpha, a free stealth model for subagents, a walkthrough on building self-improving AI agents, and why OpenAI acquired drug development startup Orchestra Bio.</description>
       <pubDate>Wed, 04 Nov 2026 12:59:14 +0000</pubDate>
