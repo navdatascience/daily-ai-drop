@@ -588,5 +588,15 @@
     "bytes": 2965669,
     "duration_secs": 370,
     "guid": "daily-ai-drop-2026-11-04-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 5, 2026",
+    "description": "ChatGPT Images 2.6 with reference images and GIFs, Ripple-65B tested locally, a DIY PDF reader to replace Acrobat, and two takes on learning and careers in the age of AI.",
+    "pub_utc": "2026-11-05T12:58:38+00:00",
+    "mp3_path": "episodes/2026-11-05/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-23fa9e3e-ab64-4c81-913a-5d843c6a8f36.mp3",
+    "bytes": 2194021,
+    "duration_secs": 274,
+    "guid": "daily-ai-drop-2026-11-05-am"
   }
 ]
