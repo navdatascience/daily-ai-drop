@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 6, 2026</title>
+      <description>A tiny model reprogrammed by editing its weights, whether you should still learn to code in 2026, and Pika turning images and sound into editable video.</description>
+      <pubDate>Fri, 06 Nov 2026 12:59:38 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-6e3779cb-1150-42d6-8f93-3fe15d4609c7.mp3" length="2525413" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-06-am</guid>
+      <itunes:duration>315</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 5, 2026</title>
       <description>Open-source Kimi K3.1 weights, Azure SQL beating Aurora on throughput, GPT-6 Cyber securing Firefox, five hundred hours of fine-tuning lessons, and cheap AI video with sound.</description>
       <pubDate>Fri, 06 Nov 2026 01:17:36 +0000</pubDate>
