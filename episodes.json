@@ -608,5 +608,15 @@
     "bytes": 3300517,
     "duration_secs": 412,
     "guid": "daily-ai-drop-2026-11-05-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 6, 2026",
+    "description": "A tiny model reprogrammed by editing its weights, whether you should still learn to code in 2026, and Pika turning images and sound into editable video.",
+    "pub_utc": "2026-11-06T12:59:38Z",
+    "mp3_path": "episodes/2026-11-06/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-6e3779cb-1150-42d6-8f93-3fe15d4609c7.mp3",
+    "bytes": 2525413,
+    "duration_secs": 315,
+    "guid": "daily-ai-drop-2026-11-06-am"
   }
 ]
