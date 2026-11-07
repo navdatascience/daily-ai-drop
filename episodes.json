@@ -628,5 +628,15 @@
     "bytes": 2040421,
     "duration_secs": 255,
     "guid": "daily-ai-drop-2026-11-06-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 7, 2026",
+    "description": "AI agents are writing code faster than Git can merge it, NVIDIA's speech cleanup now runs on an ordinary CPU, and five GitHub repos are blowing up right now.",
+    "pub_utc": "2026-11-07T12:59:40.265100+00:00",
+    "mp3_path": "episodes/2026-11-07/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a14f2a41-c7f1-40f7-a69b-b6d6d588b5a1.mp3",
+    "bytes": 1648549,
+    "duration_secs": 206,
+    "guid": "daily-ai-drop-2026-11-07-am"
   }
 ]
