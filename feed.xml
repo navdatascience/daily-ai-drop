@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 6, 2026</title>
+      <description>Siraj Raval tests whether giving an AI agent live internet access beats answering from memory, and OpenAI introduces LifeVal, a benchmark for the everyday tasks people actually want help with.</description>
+      <pubDate>Sat, 07 Nov 2026 01:25:46 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-f18046a0-c7f1-4a0c-8c22-e88c17be050e.mp3" length="2040421" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-06-pm</guid>
+      <itunes:duration>255</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 6, 2026</title>
       <description>A tiny model reprogrammed by editing its weights, whether you should still learn to code in 2026, and Pika turning images and sound into editable video.</description>
       <pubDate>Fri, 06 Nov 2026 12:59:38 +0000</pubDate>
