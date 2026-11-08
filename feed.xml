@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 7, 2026</title>
+      <description>A massive new model you can run locally, a bold twelve-month prediction, and what actually makes money with AI agents.</description>
+      <pubDate>Sun, 08 Nov 2026 01:18:06 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-ba0e486f-e9ee-4e17-a6da-af93f47b6ed0.mp3" length="2207845" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-07-pm</guid>
+      <itunes:duration>275</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 7, 2026</title>
       <description>AI agents are writing code faster than Git can merge it, NVIDIA's speech cleanup now runs on an ordinary CPU, and five GitHub repos are blowing up right now.</description>
       <pubDate>Sat, 07 Nov 2026 12:59:40 +0000</pubDate>
