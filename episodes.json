@@ -648,5 +648,15 @@
     "bytes": 2207845,
     "duration_secs": 275,
     "guid": "daily-ai-drop-2026-11-07-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 8, 2026",
+    "description": "AI agents that think without words run twice as fast, and a tiny local model reads your documents without the cloud.",
+    "pub_utc": "2026-11-08T12:58:44.261061Z",
+    "mp3_path": "episodes/2026-11-08/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-5148ca0a-3210-4610-8329-d81f8a376cc9.mp3",
+    "bytes": 2440165,
+    "duration_secs": 305,
+    "guid": "daily-ai-drop-2026-11-08-am"
   }
 ]
