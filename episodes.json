@@ -658,5 +658,15 @@
     "bytes": 2440165,
     "duration_secs": 305,
     "guid": "daily-ai-drop-2026-11-08-am"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 9, 2026",
+    "description": "Tencent's DSpine makes a big local model faster with speculative decoding, and UC Berkeley research explains why AI's saved time still leaves us exhausted.",
+    "pub_utc": "2026-11-09T12:59:16.278574Z",
+    "mp3_path": "episodes/2026-11-09/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-f5f20ed2-33ba-4538-9696-ee915178f1e0.mp3",
+    "bytes": 1837669,
+    "duration_secs": 229,
+    "guid": "daily-ai-drop-2026-11-09-am"
   }
 ]
