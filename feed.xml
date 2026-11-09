@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 9, 2026</title>
+      <description>Tencent's DSpine makes a big local model faster with speculative decoding, and UC Berkeley research explains why AI's saved time still leaves us exhausted.</description>
+      <pubDate>Mon, 09 Nov 2026 12:59:16 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-f5f20ed2-33ba-4538-9696-ee915178f1e0.mp3" length="1837669" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-09-am</guid>
+      <itunes:duration>229</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 8, 2026</title>
       <description>AI agents that think without words run twice as fast, and a tiny local model reads your documents without the cloud.</description>
       <pubDate>Sun, 08 Nov 2026 12:58:44 +0000</pubDate>
