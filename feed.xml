@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 9, 2026</title>
+      <description>Anthropic's Fable 5.2 and Meta's tiny Muse Ember headline a big Monday, while agents take over trust at Airbnb, marketing, and sales videos.</description>
+      <pubDate>Tue, 10 Nov 2026 01:31:45 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-115ea432-95be-4748-be2a-e2952a15fd34.mp3" length="3259813" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-09-pm</guid>
+      <itunes:duration>407</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 9, 2026</title>
       <description>Tencent's DSpine makes a big local model faster with speculative decoding, and UC Berkeley research explains why AI's saved time still leaves us exhausted.</description>
       <pubDate>Mon, 09 Nov 2026 12:59:16 +0000</pubDate>
