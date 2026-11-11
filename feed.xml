@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 10, 2026</title>
+      <description>Fable 5.2 gets two opposite verdicts in one day, OpenAI puts businesses inside ChatGPT, and the agent era moves from promise to plumbing.</description>
+      <pubDate>Wed, 11 Nov 2026 01:19:21 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-14db801a-5fd9-473f-b010-39dbba4b0696.mp3" length="3100645" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-10-pm</guid>
+      <itunes:duration>387</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 10, 2026</title>
       <description>A new benchmark shows AI still can't do real professional work, while a tiny local logic model, a seventy-year drawing archive, and a first-agent tutorial point to the practical middle ground.</description>
       <pubDate>Tue, 10 Nov 2026 12:59:49 +0000</pubDate>
