@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 11, 2026</title>
+      <description>OpenAI's DevDay 2026 sessions land in bulk, Anthropic's IPO filing hints cheap AI subscriptions won't last, and Qwen4 Max gets a hands-on workout.</description>
+      <pubDate>Wed, 11 Nov 2026 13:00:20 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-0b7bdf59-1fe7-452f-a0da-19d217fa381f.mp3" length="2766565" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-11-am</guid>
+      <itunes:duration>345</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 10, 2026</title>
       <description>Fable 5.2 gets two opposite verdicts in one day, OpenAI puts businesses inside ChatGPT, and the agent era moves from promise to plumbing.</description>
       <pubDate>Wed, 11 Nov 2026 01:19:21 +0000</pubDate>
