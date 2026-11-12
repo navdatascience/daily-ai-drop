@@ -708,5 +708,15 @@
     "bytes": 2766565,
     "duration_secs": 345,
     "guid": "daily-ai-drop-2026-11-11-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 11, 2026",
+    "description": "Agents go to work: Codex Security scans, secure agent workflows, Microsoft's path to production, an AI answering business calls for a week, Grok Bot mastery, and NVIDIA's cancelled 24GB card.",
+    "pub_utc": "2026-11-12T01:04:25.264603Z",
+    "mp3_path": "episodes/2026-11-11/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-2ff4fa35-2ad2-47fa-9a0f-90ec881d4394.mp3",
+    "bytes": 3248293,
+    "duration_secs": 406,
+    "guid": "daily-ai-drop-2026-11-11-pm"
   }
 ]
