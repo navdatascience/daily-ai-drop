@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 12, 2026</title>
+      <description>Google claims Gemini 4 Carbon is immune to prompt injection, Gemini Decision 1 gets a hands-on test, Matthew Berman says let AI redesign your work, and Codex rebuilds a travel app in two weeks.</description>
+      <pubDate>Thu, 12 Nov 2026 12:59:20 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-ee3b781a-c366-409c-b6a3-4862719d7747.mp3" length="2602597" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-12-am</guid>
+      <itunes:duration>325</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 11, 2026</title>
       <description>Agents go to work: Codex Security scans, secure agent workflows, Microsoft's path to production, an AI answering business calls for a week, Grok Bot mastery, and NVIDIA's cancelled 24GB card.</description>
       <pubDate>Thu, 12 Nov 2026 01:04:25 +0000</pubDate>
