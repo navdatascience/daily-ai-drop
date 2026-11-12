@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 11, 2026</title>
+      <description>Agents go to work: Codex Security scans, secure agent workflows, Microsoft's path to production, an AI answering business calls for a week, Grok Bot mastery, and NVIDIA's cancelled 24GB card.</description>
+      <pubDate>Thu, 12 Nov 2026 01:04:25 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-2ff4fa35-2ad2-47fa-9a0f-90ec881d4394.mp3" length="3248293" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-11-pm</guid>
+      <itunes:duration>406</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 11, 2026</title>
       <description>OpenAI's DevDay 2026 sessions land in bulk, Anthropic's IPO filing hints cheap AI subscriptions won't last, and Qwen4 Max gets a hands-on workout.</description>
       <pubDate>Wed, 11 Nov 2026 13:00:20 +0000</pubDate>
