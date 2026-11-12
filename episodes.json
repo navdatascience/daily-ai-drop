@@ -718,5 +718,15 @@
     "bytes": 3248293,
     "duration_secs": 406,
     "guid": "daily-ai-drop-2026-11-11-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 12, 2026",
+    "description": "Google claims Gemini 4 Carbon is immune to prompt injection, Gemini Decision 1 gets a hands-on test, Matthew Berman says let AI redesign your work, and Codex rebuilds a travel app in two weeks.",
+    "pub_utc": "2026-11-12T12:59:20.536592Z",
+    "mp3_path": "episodes/2026-11-12/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-ee3b781a-c366-409c-b6a3-4862719d7747.mp3",
+    "bytes": 2602597,
+    "duration_secs": 325,
+    "guid": "daily-ai-drop-2026-11-12-am"
   }
 ]
