@@ -728,5 +728,15 @@
     "bytes": 2602597,
     "duration_secs": 325,
     "guid": "daily-ai-drop-2026-11-12-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 12, 2026",
+    "description": "Gemini 4 Hydrogen gets tested, MiniMax M3.1 Flash challenges the open-source crown, Fable 5.2 finally builds the display three attempts couldn't, OpenAI goes live on cyber, and the day's big question is what AI actually costs.",
+    "pub_utc": "2026-11-13T01:23:11.074725+00:00",
+    "mp3_path": "episodes/2026-11-12/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-8b647d51-680c-4bc5-974d-dbfa70a5a787.mp3",
+    "bytes": 3582949,
+    "duration_secs": 447,
+    "guid": "daily-ai-drop-2026-11-12-pm"
   }
 ]
