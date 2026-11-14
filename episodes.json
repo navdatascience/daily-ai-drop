@@ -748,5 +748,15 @@
     "bytes": 2123173,
     "duration_secs": 265,
     "guid": "daily-ai-drop-2026-11-13-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 13, 2026",
+    "description": "Jensen Huang's resignation shakes up AI pricing, the labs-vs-open-weights fight heats up, LangChain bets $300M on governing agents, Mozilla uses AI to defend Firefox, and open-source tools have a loud afternoon.",
+    "pub_utc": "2026-11-14T01:08:14.915887+00:00",
+    "mp3_path": "episodes/2026-11-13/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-0894767e-a183-40fe-a4a7-9fcb442e151a.mp3",
+    "bytes": 2541157,
+    "duration_secs": 317,
+    "guid": "daily-ai-drop-2026-11-13-pm"
   }
 ]
