@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 13, 2026</title>
+      <description>Jensen Huang's resignation shakes up AI pricing, the labs-vs-open-weights fight heats up, LangChain bets $300M on governing agents, Mozilla uses AI to defend Firefox, and open-source tools have a loud afternoon.</description>
+      <pubDate>Sat, 14 Nov 2026 01:08:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-0894767e-a183-40fe-a4a7-9fcb442e151a.mp3" length="2541157" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-13-pm</guid>
+      <itunes:duration>317</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 13, 2026</title>
       <description>Who controls access to AI, a programmable routing layer that sends each request to the right model, and why great employees don't automatically become great managers.</description>
       <pubDate>Fri, 13 Nov 2026 12:59:18 +0000</pubDate>
