@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 14, 2026</title>
+      <description>Why all AI writing sounds the same, a local speed race between inference engines, Reid Hoffman on becoming AI-native, AI agents with access to your money, and the flight cancellations investigated against a new AI air traffic tool.</description>
+      <pubDate>Sat, 14 Nov 2026 12:59:47 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-b3e67a00-c167-44cb-9cd6-a6cb1d292b26.mp3" length="2581861" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-14-am</guid>
+      <itunes:duration>322</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 13, 2026</title>
       <description>Jensen Huang's resignation shakes up AI pricing, the labs-vs-open-weights fight heats up, LangChain bets $300M on governing agents, Mozilla uses AI to defend Firefox, and open-source tools have a loud afternoon.</description>
       <pubDate>Sat, 14 Nov 2026 01:08:14 +0000</pubDate>
