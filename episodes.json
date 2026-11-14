@@ -758,5 +758,15 @@
     "bytes": 2541157,
     "duration_secs": 317,
     "guid": "daily-ai-drop-2026-11-13-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 14, 2026",
+    "description": "Why all AI writing sounds the same, a local speed race between inference engines, Reid Hoffman on becoming AI-native, AI agents with access to your money, and the flight cancellations investigated against a new AI air traffic tool.",
+    "pub_utc": "2026-11-14T12:59:47.900618+00:00",
+    "mp3_path": "episodes/2026-11-14/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-b3e67a00-c167-44cb-9cd6-a6cb1d292b26.mp3",
+    "bytes": 2581861,
+    "duration_secs": 322,
+    "guid": "daily-ai-drop-2026-11-14-am"
   }
 ]
