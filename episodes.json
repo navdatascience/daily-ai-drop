@@ -768,5 +768,15 @@
     "bytes": 2581861,
     "duration_secs": 322,
     "guid": "daily-ai-drop-2026-11-14-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 14, 2026",
+    "description": "Fahd Mirza tests Alpie Seed 9B, a vision model for reasoning, and asks whether every 9B model deserves the hype.",
+    "pub_utc": "2026-11-15T01:06:19.381627+00:00",
+    "mp3_path": "episodes/2026-11-14/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-464e68d3-2928-44e7-bd01-63fac492d025.mp3",
+    "bytes": 1877605,
+    "duration_secs": 234,
+    "guid": "daily-ai-drop-2026-11-14-pm"
   }
 ]
