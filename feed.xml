@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 14, 2026</title>
+      <description>Fahd Mirza tests Alpie Seed 9B, a vision model for reasoning, and asks whether every 9B model deserves the hype.</description>
+      <pubDate>Sun, 15 Nov 2026 01:06:19 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-464e68d3-2928-44e7-bd01-63fac492d025.mp3" length="1877605" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-14-pm</guid>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 14, 2026</title>
       <description>Why all AI writing sounds the same, a local speed race between inference engines, Reid Hoffman on becoming AI-native, AI agents with access to your money, and the flight cancellations investigated against a new AI air traffic tool.</description>
       <pubDate>Sat, 14 Nov 2026 12:59:47 +0000</pubDate>
