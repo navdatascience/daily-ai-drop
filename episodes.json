@@ -778,5 +778,15 @@
     "bytes": 1877605,
     "duration_secs": 234,
     "guid": "daily-ai-drop-2026-11-14-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 15, 2026",
+    "description": "Alex and Jordan break down two overnight AI videos: Wharton research showing expert personas can make AI prompts worse, and MiniMax H3 Image tested locally in ComfyUI.",
+    "pub_utc": "2026-11-15T12:58:39.266838+00:00",
+    "mp3_path": "episodes/2026-11-15/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-5effd00b-707f-4084-a140-e2ee0a622795.mp3",
+    "bytes": 1837093,
+    "duration_secs": 229,
+    "guid": "daily-ai-drop-2026-11-15-am"
   }
 ]
