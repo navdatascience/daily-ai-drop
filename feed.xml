@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 16, 2026</title>
+      <description>Qwen4-Max leaves preview, skills vs sub-agents explained, the six levels of AI, and ChatGPT builds a website for a 63-cousin family reunion.</description>
+      <pubDate>Mon, 16 Nov 2026 12:59:39 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-00211b17-5115-4fb5-9aa0-9ff800ab23fe.mp3" length="1976677" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-16-am</guid>
+      <itunes:duration>247</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 15, 2026</title>
       <description>Fahd Mirza puts Meituan's new LongCat 2.5 multimodal mixture-of-experts model through two local tests.</description>
       <pubDate>Mon, 16 Nov 2026 01:03:55 +0000</pubDate>
