@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 15, 2026</title>
+      <description>Fahd Mirza puts Meituan's new LongCat 2.5 multimodal mixture-of-experts model through two local tests.</description>
+      <pubDate>Mon, 16 Nov 2026 01:03:55 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-015e7062-4081-4169-8da2-c18aef0bc86f.mp3" length="1779877" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-15-pm</guid>
+      <itunes:duration>222</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 15, 2026</title>
       <description>Alex and Jordan break down two overnight AI videos: Wharton research showing expert personas can make AI prompts worse, and MiniMax H3 Image tested locally in ComfyUI.</description>
       <pubDate>Sun, 15 Nov 2026 12:58:39 +0000</pubDate>
