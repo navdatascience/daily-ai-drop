@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 17, 2026</title>
+      <description>Maxwell V1.0 Flash runs locally as a 35B open MoE, Aish Reganti fact-checks the Opus nerfed debate, and five Revolut stories show Codex doing real work inside a fintech.</description>
+      <pubDate>Tue, 17 Nov 2026 13:00:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a14a77f6-0c26-4f44-84da-97c57e8f8791.mp3" length="2212453" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-17-am</guid>
+      <itunes:duration>276</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 16, 2026</title>
       <description>JPMorgan's agent-building assembly line, cheaper AI and Nvidia, Tencent Hy4 Flash, Box on AI in software, and OpenAI Daybreak in cybersecurity.</description>
       <pubDate>Tue, 17 Nov 2026 01:04:21 +0000</pubDate>
