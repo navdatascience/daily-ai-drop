@@ -828,5 +828,15 @@
     "bytes": 2212453,
     "duration_secs": 276,
     "guid": "daily-ai-drop-2026-11-17-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 17, 2026",
+    "description": "Alex and Jordan cover OpenAI's GPT-6.2 Astra and Sol launch, EmbeddingGemma 2, a model that takes 200 images in one prompt, a DeepSeek alternative from India, a free Grok bot, LangChain's 12-part LangSmith course, and simultaneous outages at banks and the FAA.",
+    "pub_utc": "2026-11-18T01:05:24.928250+00:00",
+    "mp3_path": "episodes/2026-11-17/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-cf4efdef-21ea-4188-a1b5-647c11cb1324.mp3",
+    "bytes": 3370981,
+    "duration_secs": 421,
+    "guid": "daily-ai-drop-2026-11-17-pm"
   }
 ]
