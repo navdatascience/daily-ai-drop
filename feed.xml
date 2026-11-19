@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 19, 2026</title>
+      <description>Alex and Jordan cover Fahd Mirza's hands-on test of Google's Gemini 4 Neon middle model and OpenAI's Dots agents doing real work inside Holiday Extras.</description>
+      <pubDate>Thu, 19 Nov 2026 12:58:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-59fb1350-0bda-405e-84b3-dee647a281ca.mp3" length="1764325" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-19-am</guid>
+      <itunes:duration>220</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 18, 2026</title>
       <description>Coding agents move from code into robots, JPMorgan and LangChain on trusting and measuring agents, a critical NGINX flaw to patch now, Jensen Huang's possible NVIDIA return, and ChatGPT for Accounting.</description>
       <pubDate>Thu, 19 Nov 2026 01:07:36 +0000</pubDate>
