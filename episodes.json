@@ -848,5 +848,15 @@
     "bytes": 1720357,
     "duration_secs": 215,
     "guid": "daily-ai-drop-2026-11-18-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 18, 2026",
+    "description": "Coding agents move from code into robots, JPMorgan and LangChain on trusting and measuring agents, a critical NGINX flaw to patch now, Jensen Huang's possible NVIDIA return, and ChatGPT for Accounting.",
+    "pub_utc": "2026-11-19T01:07:36.216719+00:00",
+    "mp3_path": "episodes/2026-11-18/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-219d1978-87d0-46bc-93c4-753ee7941651.mp3",
+    "bytes": 4848613,
+    "duration_secs": 606,
+    "guid": "daily-ai-drop-2026-11-18-pm"
   }
 ]
