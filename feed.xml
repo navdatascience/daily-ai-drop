@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 18, 2026</title>
+      <description>Coding agents move from code into robots, JPMorgan and LangChain on trusting and measuring agents, a critical NGINX flaw to patch now, Jensen Huang's possible NVIDIA return, and ChatGPT for Accounting.</description>
+      <pubDate>Thu, 19 Nov 2026 01:07:36 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-219d1978-87d0-46bc-93c4-753ee7941651.mp3" length="4848613" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-18-pm</guid>
+      <itunes:duration>606</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 18, 2026</title>
       <description>Nate B. Jones on the fresh wave of outages hitting the FAA, banks, and Microsoft 365; Fahd Mirza tests the self-improving Apex-35B local model; and Aishwarya Srinivasan breaks down context engineering for production agents.</description>
       <pubDate>Wed, 18 Nov 2026 12:59:01 +0000</pubDate>
