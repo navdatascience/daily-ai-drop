@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 19, 2026</title>
+      <description>GPT-6.2 settles in, Gemini Neon 4 gets the value test, Anthropic tells its own story, and LangChain's agent plumbing takes center stage.</description>
+      <pubDate>Fri, 20 Nov 2026 01:07:51 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-819c08d7-0e5a-4ad6-99bf-4a26e7c9e45b.mp3" length="3686245" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-19-pm</guid>
+      <itunes:duration>460</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 19, 2026</title>
       <description>Alex and Jordan cover Fahd Mirza's hands-on test of Google's Gemini 4 Neon middle model and OpenAI's Dots agents doing real work inside Holiday Extras.</description>
       <pubDate>Thu, 19 Nov 2026 12:58:32 +0000</pubDate>
