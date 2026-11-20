@@ -868,5 +868,15 @@
     "bytes": 1764325,
     "duration_secs": 220,
     "guid": "daily-ai-drop-2026-11-19-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 19, 2026",
+    "description": "GPT-6.2 settles in, Gemini Neon 4 gets the value test, Anthropic tells its own story, and LangChain's agent plumbing takes center stage.",
+    "pub_utc": "2026-11-20T01:07:51.870870+00:00",
+    "mp3_path": "episodes/2026-11-19/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-819c08d7-0e5a-4ad6-99bf-4a26e7c9e45b.mp3",
+    "bytes": 3686245,
+    "duration_secs": 460,
+    "guid": "daily-ai-drop-2026-11-19-pm"
   }
 ]
