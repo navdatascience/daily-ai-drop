@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 20, 2026</title>
+      <description>OpenAI turns ChatGPT into a team data workspace with a new Data plugin and Spaces reports, Gemini 4 Neon keeps impressing, and a Pi adapter squeezes new tricks out of Qwen.</description>
+      <pubDate>Fri, 20 Nov 2026 13:00:21 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-9036c03c-c7d1-4aa7-a931-936d46b513b7.mp3" length="2507365" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-20-am</guid>
+      <itunes:duration>313</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 19, 2026</title>
       <description>GPT-6.2 settles in, Gemini Neon 4 gets the value test, Anthropic tells its own story, and LangChain's agent plumbing takes center stage.</description>
       <pubDate>Fri, 20 Nov 2026 01:07:51 +0000</pubDate>
