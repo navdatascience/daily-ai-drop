@@ -888,5 +888,15 @@
     "bytes": 2507365,
     "duration_secs": 313,
     "guid": "daily-ai-drop-2026-11-20-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 20, 2026",
+    "description": "Alex and Jordan cover Anthropic's 1,000 agents running for 8 days, Clay's approach to debugging traces with hundreds of tool calls, LangSmith's agent updates, Gemini 4 Neon, local reasoning models, Claude Code's new Code Mode, and six robots running a Shanghai convenience store.",
+    "pub_utc": "2026-11-21T01:05:28.730365+00:00",
+    "mp3_path": "episodes/2026-11-20/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-b182847b-4279-4497-bf70-a53a4ce8fde4.mp3",
+    "bytes": 2856997,
+    "duration_secs": 357,
+    "guid": "daily-ai-drop-2026-11-20-pm"
   }
 ]
