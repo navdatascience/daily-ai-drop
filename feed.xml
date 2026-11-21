@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 21, 2026</title>
+      <description>Nate B. Jones on Microsoft's email outage and the fix that made it worse, plus Harrison Chase on the future of agents in 2027.</description>
+      <pubDate>Sat, 21 Nov 2026 12:58:37 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-41706685-b079-4d0c-aaec-ce2d62c42c3d.mp3" length="1827685" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-21-am</guid>
+      <itunes:duration>228</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 20, 2026</title>
       <description>Alex and Jordan cover Anthropic's 1,000 agents running for 8 days, Clay's approach to debugging traces with hundreds of tool calls, LangSmith's agent updates, Gemini 4 Neon, local reasoning models, Claude Code's new Code Mode, and six robots running a Shanghai convenience store.</description>
       <pubDate>Sat, 21 Nov 2026 01:05:28 +0000</pubDate>
