@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 20, 2026</title>
+      <description>Alex and Jordan cover Anthropic's 1,000 agents running for 8 days, Clay's approach to debugging traces with hundreds of tool calls, LangSmith's agent updates, Gemini 4 Neon, local reasoning models, Claude Code's new Code Mode, and six robots running a Shanghai convenience store.</description>
+      <pubDate>Sat, 21 Nov 2026 01:05:28 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-b182847b-4279-4497-bf70-a53a4ce8fde4.mp3" length="2856997" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-20-pm</guid>
+      <itunes:duration>357</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 20, 2026</title>
       <description>OpenAI turns ChatGPT into a team data workspace with a new Data plugin and Spaces reports, Gemini 4 Neon keeps impressing, and a Pi adapter squeezes new tricks out of Qwen.</description>
       <pubDate>Fri, 20 Nov 2026 13:00:21 +0000</pubDate>
