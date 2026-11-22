@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 22, 2026</title>
+      <description>Qwen's sparse attention reads a million tokens, RAG versus fine-tuning explained, the real cost of AI tokens, and Reid Hoffman on hiring AI-native talent.</description>
+      <pubDate>Sun, 22 Nov 2026 12:59:45 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-57dffa38-d5ad-4510-9bc3-9f323e96df11.mp3" length="2289637" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-22-am</guid>
+      <itunes:duration>286</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 21, 2026</title>
       <description>Alex and Jordan cover Inkling 2 Mini running frontier AI on a laptop, Google's Elephant-Goldfish design-first agent workflow, Anthropic going public, Reid Hoffman on preparing for AI at work, and Microsoft's packed Ignite keynote.</description>
       <pubDate>Sun, 22 Nov 2026 01:04:00 +0000</pubDate>
