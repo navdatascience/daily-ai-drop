@@ -908,5 +908,15 @@
     "bytes": 1827685,
     "duration_secs": 228,
     "guid": "daily-ai-drop-2026-11-21-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 21, 2026",
+    "description": "Alex and Jordan cover Inkling 2 Mini running frontier AI on a laptop, Google's Elephant-Goldfish design-first agent workflow, Anthropic going public, Reid Hoffman on preparing for AI at work, and Microsoft's packed Ignite keynote.",
+    "pub_utc": "2026-11-22T01:04:00.522772+00:00",
+    "mp3_path": "episodes/2026-11-21/pm/episode.mp3",
+    "bytes": 2879077,
+    "duration_secs": 359,
+    "guid": "daily-ai-drop-2026-11-21-pm",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-1eb27480-4c3c-4977-aa3c-b7345c67ee46.mp3"
   }
 ]
