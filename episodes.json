@@ -918,5 +918,15 @@
     "duration_secs": 359,
     "guid": "daily-ai-drop-2026-11-21-pm",
     "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-1eb27480-4c3c-4977-aa3c-b7345c67ee46.mp3"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 22, 2026",
+    "description": "Qwen's sparse attention reads a million tokens, RAG versus fine-tuning explained, the real cost of AI tokens, and Reid Hoffman on hiring AI-native talent.",
+    "pub_utc": "2026-11-22T12:59:45.888491+00:00",
+    "mp3_path": "episodes/2026-11-22/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-57dffa38-d5ad-4510-9bc3-9f323e96df11.mp3",
+    "bytes": 2289637,
+    "duration_secs": 286,
+    "guid": "daily-ai-drop-2026-11-22-am"
   }
 ]
