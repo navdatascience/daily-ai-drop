@@ -928,5 +928,15 @@
     "bytes": 2289637,
     "duration_secs": 286,
     "guid": "daily-ai-drop-2026-11-22-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 22, 2026",
+    "description": "Cheap frontier models with a catch, a builder summit in Bengaluru, Claude Code reading your analytics, a week of outages at Microsoft, the FAA, the NSA and banks, a new local reasoning model, Gamma's agent harness, and an AI engineering career bundle.",
+    "pub_utc": "2026-11-23T01:07:33.434634+00:00",
+    "mp3_path": "episodes/2026-11-22/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-beee30a6-6b59-45dd-a927-363371a393bf.mp3",
+    "bytes": 3325093,
+    "duration_secs": 415,
+    "guid": "daily-ai-drop-2026-11-22-pm"
   }
 ]
