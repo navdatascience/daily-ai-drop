@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 23, 2026</title>
+      <description>Surogate 3.7 chases DeepSeek and GLM for local agentic work, a first look at GLM-5.4, and Aishwarya's LLM versus Jev comparison for database queries.</description>
+      <pubDate>Mon, 23 Nov 2026 12:59:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-d414aa7b-c7e7-4dae-9c05-f4207f65ca4c.mp3" length="2042917" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-23-am</guid>
+      <itunes:duration>255</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 22, 2026</title>
       <description>Cheap frontier models with a catch, a builder summit in Bengaluru, Claude Code reading your analytics, a week of outages at Microsoft, the FAA, the NSA and banks, a new local reasoning model, Gamma's agent harness, and an AI engineering career bundle.</description>
       <pubDate>Mon, 23 Nov 2026 01:07:33 +0000</pubDate>
