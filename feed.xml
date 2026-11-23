@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 22, 2026</title>
+      <description>Cheap frontier models with a catch, a builder summit in Bengaluru, Claude Code reading your analytics, a week of outages at Microsoft, the FAA, the NSA and banks, a new local reasoning model, Gamma's agent harness, and an AI engineering career bundle.</description>
+      <pubDate>Mon, 23 Nov 2026 01:07:33 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-beee30a6-6b59-45dd-a927-363371a393bf.mp3" length="3325093" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-22-pm</guid>
+      <itunes:duration>415</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 22, 2026</title>
       <description>Qwen's sparse attention reads a million tokens, RAG versus fine-tuning explained, the real cost of AI tokens, and Reid Hoffman on hiring AI-native talent.</description>
       <pubDate>Sun, 22 Nov 2026 12:59:45 +0000</pubDate>
