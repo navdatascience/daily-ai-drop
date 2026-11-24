@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 24, 2026</title>
+      <description>Alex and Jordan cover ERNIE 5.5 Flash, Gemini 4 Neon, Ruflo's multi-model dev team, four LangChain agent videos, Codex for SVG and 3D design, exoplanet hunting with AI, and the latest from NVIDIA and robotics.</description>
+      <pubDate>Tue, 24 Nov 2026 23:07:37 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-0eb1aae6-7103-4378-b6e2-567432572e29.mp3" length="2771646" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-24-pm</guid>
+      <itunes:duration>344</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 24, 2026</title>
       <description>Alex and Jordan cover GLM-5.4's wild demos, whether AI just solved mathematics, a complete guide to agent architecture, a billion-dollar robotics founder's vision, and a ChatGPT price-watching trick for holiday gifts.</description>
       <pubDate>Tue, 24 Nov 2026 13:26:08 +0000</pubDate>
