@@ -958,5 +958,15 @@
     "bytes": 3244837,
     "duration_secs": 405,
     "guid": "daily-ai-drop-2026-11-23-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 24, 2026",
+    "description": "Alex and Jordan cover GLM-5.4's wild demos, whether AI just solved mathematics, a complete guide to agent architecture, a billion-dollar robotics founder's vision, and a ChatGPT price-watching trick for holiday gifts.",
+    "pub_utc": "2026-11-24T13:26:08.159809Z",
+    "mp3_path": "episodes/2026-11-24/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-74971430-5327-4268-bf15-456186d23bf4.mp3",
+    "bytes": 2420389,
+    "duration_secs": 302,
+    "guid": "daily-ai-drop-2026-11-24-am"
   }
 ]
