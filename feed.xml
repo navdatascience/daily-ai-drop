@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Evening Edition, November 23, 2026</title>
+      <description>Alex and Jordan cover the split verdicts on GPT-6.2 Astra and Gemini 4 Neon, GLM 5.4's loop transformer, Jev's typed answers, LangChain's open-sourced design agent, GPT-6 Cyber validating 948 Linux kernel flaws, robots as the new apps, and a Grok bot running a ten-thousand-dollar-a-month business.</description>
+      <pubDate>Tue, 24 Nov 2026 01:06:53 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-c84488bb-e05f-4b05-99da-a603ceeb403a.mp3" length="3244837" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-23-pm</guid>
+      <itunes:duration>405</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Morning Edition, November 23, 2026</title>
       <description>Surogate 3.7 chases DeepSeek and GLM for local agentic work, a first look at GLM-5.4, and Aishwarya's LLM versus Jev comparison for database queries.</description>
       <pubDate>Mon, 23 Nov 2026 12:59:32 +0000</pubDate>
