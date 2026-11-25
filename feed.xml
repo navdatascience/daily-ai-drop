@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 25, 2026</title>
+      <description>Alex and Jordan cover Microsoft's Aion-1 2.3B on-device AI for Windows and Mehul Mohan turning a sticky note doodle into a short film with ElevenCreative.</description>
+      <pubDate>Wed, 25 Nov 2026 11:03:09 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-9a30c4d8-6687-4575-aab2-58dff6f2176b.mp3" length="2082366" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-25-am</guid>
+      <itunes:duration>257</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 24, 2026</title>
       <description>Alex and Jordan cover ERNIE 5.5 Flash, Gemini 4 Neon, Ruflo's multi-model dev team, four LangChain agent videos, Codex for SVG and 3D design, exoplanet hunting with AI, and the latest from NVIDIA and robotics.</description>
       <pubDate>Tue, 24 Nov 2026 23:07:37 +0000</pubDate>
