@@ -1008,5 +1008,15 @@
     "bytes": 1735422,
     "duration_secs": 214,
     "guid": "daily-ai-drop-2026-11-26-am"
+  },
+  {
+    "title": "The Daily AI Drop - Evening Edition, November 26, 2026",
+    "description": "GLM Legal tested on real legal work, the T3 Code telemetry controversy, Claude's new App Maker, and why Gemini 4 feels better than ChatGPT 6.2.",
+    "pub_utc": "2026-11-26T23:04:04Z",
+    "mp3_path": "episodes/2026-11-26/pm/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-deb576e7-2833-4f0d-95d0-36ece36a3515.mp3",
+    "bytes": 2009790,
+    "duration_secs": 248,
+    "guid": "daily-ai-drop-2026-11-26-pm"
   }
 ]
