@@ -1018,5 +1018,15 @@
     "bytes": 2009790,
     "duration_secs": 248,
     "guid": "daily-ai-drop-2026-11-26-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 27, 2026",
+    "description": "Tencent DFly2 makes AI inference 4.2 times faster, and Google's AI agent rewrote its own harness, jumping from 5 percent to 40 percent on held-out tasks.",
+    "pub_utc": "2026-11-27T11:03:10Z",
+    "mp3_path": "episodes/2026-11-27/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-6e4f7475-1a87-46c8-a364-55ba57667b4b.mp3",
+    "bytes": 2367102,
+    "duration_secs": 293,
+    "guid": "daily-ai-drop-2026-11-27-am"
   }
 ]
