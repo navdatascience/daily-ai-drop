@@ -11,6 +11,15 @@
     <itunes:image href="https://navdatascience.github.io/daily-ai-drop/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>The Daily AI Drop - Morning Edition, November 28, 2026</title>
+      <description>Tencent's Hy-MT3 translates 102 languages locally, Nate B. Jones on AI and the job you never wanted, and Aishwarya Srinivasan's picks from 2000+ hours of AI certifications.</description>
+      <pubDate>Sat, 28 Nov 2026 11:03:12 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a0710844-e77a-45b9-b023-f90e841eeeac.mp3" length="1605054" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-ai-drop-2026-11-28-am</guid>
+      <itunes:duration>198</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The Daily AI Drop - Evening Edition, November 27, 2026</title>
       <description>OpenShell's private agent runtime, P vs NP explained, ten open-source projects, finding better work for AI, and the fastest path to becoming an AI engineer in 2027.</description>
       <pubDate>Fri, 27 Nov 2026 23:05:52 +0000</pubDate>
@@ -899,15 +908,6 @@
       <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-911fea17-d92e-4242-a98f-7c399a89abdd.mp3" length="3538405" type="audio/mpeg"/>
       <guid isPermaLink="false">daily-ai-drop-2026-10-08-pm</guid>
       <itunes:duration>442</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily AI Drop - Morning Edition, October 8, 2026</title>
-      <description>Alex and Jordan break down six overnight AI videos: LangChain on agent skills and OpenAI's hidden prompt-cache ceiling, Claude Haiku 5.5 going ten times cheaper and taking on GPT 6 Luna, Nate B. Jones asking whether Google can catch up, and Fahd Mirza testing a tiny local multimodal decision model.</description>
-      <pubDate>Thu, 08 Oct 2026 11:58:31 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-8323f3b4-f908-4376-83cc-27ee7f05885e.mp3" length="2377957" type="audio/mpeg"/>
-      <guid isPermaLink="false">daily-ai-drop-2026-10-08-am</guid>
-      <itunes:duration>297</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
