@@ -1038,5 +1038,15 @@
     "bytes": 2845374,
     "duration_secs": 353,
     "guid": "daily-ai-drop-2026-11-27-pm"
+  },
+  {
+    "title": "The Daily AI Drop - Morning Edition, November 28, 2026",
+    "description": "Tencent's Hy-MT3 translates 102 languages locally, Nate B. Jones on AI and the job you never wanted, and Aishwarya Srinivasan's picks from 2000+ hours of AI certifications.",
+    "pub_utc": "2026-11-28T11:03:12.054834+00:00",
+    "mp3_path": "episodes/2026-11-28/am/episode.mp3",
+    "audio_url": "https://muse.ai/podcasts/media/1180242951829162/4c015424-5891-46ff-a366-0f9e546ae170/ep-a0710844-e77a-45b9-b023-f90e841eeeac.mp3",
+    "bytes": 1605054,
+    "duration_secs": 198,
+    "guid": "daily-ai-drop-2026-11-28-am"
   }
 ]
